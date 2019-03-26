@@ -1,0 +1,7 @@
+venv
+deep-learning-v2-pytorch
+CNN/cifar/data
+generic_MINST/data
+test
+cat_dog_checkpoint.pth
+checkpoint.pth
