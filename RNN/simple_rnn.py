@@ -34,7 +34,7 @@ class RNN(nn.Module):
         return output, hidden
 
 
-plt.figure(figsize=(8,5))
+plt.figure(figsize=(8, 5))
 
 # how many time steps/data pts are in one batch of data
 seq_length = 20
@@ -42,18 +42,17 @@ seq_length = 20
 # generate evenly spaced data pts
 time_steps = np.linspace(0, np.pi, seq_length + 1)
 data = np.sin(time_steps)
-data.resize((seq_length + 1, 1)) # size becomes (seq_length+1, 1), adds an input_size dimension
+data.resize((seq_length + 1, 1))  # size becomes (seq_length+1, 1), adds an input_size dimension
 
-x = data[:-1] # all but the last piece of data
-y = data[1:] # all but the first
+x = data[:-1]  # all but the last piece of data
+y = data[1:]  # all but the first
 
 # display the data
-plt.plot(time_steps[1:], x, 'r.', label='input, x')#x
-plt.plot(time_steps[1:], y, 'b.', label='target, y')#y
+plt.plot(time_steps[1:], x, 'r.', label='input, x')  # x
+plt.plot(time_steps[1:], y, 'b.', label='target, y')  # y
 
 plt.legend(loc='best')
 plt.show()
-
 
 # test that dimensions are as expected
 test_rnn = RNN(input_size=1, output_size=1, hidden_dim=10, n_layers=2)
@@ -63,7 +62,7 @@ time_steps = np.linspace(0, np.pi, seq_length)
 data = np.sin(time_steps)
 data.resize((seq_length, 1))
 
-test_input = torch.Tensor(data).unsqueeze(0) # give it a batch_size of 1 as first dimension
+test_input = torch.Tensor(data).unsqueeze(0)  # give it a batch_size of 1 as first dimension
 print('Input size: ', test_input.size())
 
 # test out rnn sizes
@@ -71,12 +70,11 @@ test_out, test_h = test_rnn(test_input, None)
 print('Output size: ', test_out.size())
 print('Hidden state size: ', test_h.size())
 
-
 # decide on hyperparameters
-input_size=1
-output_size=1
-hidden_dim=32
-n_layers=1
+input_size = 1
+output_size = 1
+hidden_dim = 32
+n_layers = 1
 
 # instantiate an RNN
 rnn = RNN(input_size, output_size, hidden_dim, n_layers)
@@ -128,6 +126,7 @@ def train(rnn, n_steps, print_every):
             plt.show()
 
     return rnn
+
 
 # train the rnn and monitor results
 n_steps = 75
