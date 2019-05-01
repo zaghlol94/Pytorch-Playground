@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/RNN/generate_text_char_level.py" line="21" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d9d6465b-b395-425e-b520-eb479766c32d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/cifar10_cnn_augmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/cifar10_cnn_augmentation.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/cifar10_cnn_solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/cifar10_cnn_solution.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/conv_visualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/conv_visualization.ipynb" afterDir="false" />
@@ -23,38 +28,119 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Pytorch_tutorial$generate_text_char_level.coverage" NAME="generate_text_char_level Coverage Results" MODIFIED="1554586296644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN" />
     <SUITE FILE_PATH="coverage/Pytorch_tutorial$conv_visualization_cn.coverage" NAME="conv_visualization-cn Coverage Results" MODIFIED="1552394520430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN/layer_visualisation" />
-    <SUITE FILE_PATH="coverage/Pytorch_tutorial$trainig_FNN_2.coverage" NAME="trainig_FNN_2 Coverage Results" MODIFIED="1549362664002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pytorch_tutorial$ST.coverage" NAME="ST Coverage Results" MODIFIED="1552921917195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/style_transfer" />
-    <SUITE FILE_PATH="coverage/Pytorch_tutorial$trainig_FNN.coverage" NAME="trainig_FNN Coverage Results" MODIFIED="1549360173942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pytorch_tutorial$transfer_learning.coverage" NAME="transfer_learning Coverage Results" MODIFIED="1549966282564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pytorch_tutorial$omar1.coverage" NAME="omar1 Coverage Results" MODIFIED="1549988759495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pytorch_tutorial$train.coverage" NAME="train Coverage Results" MODIFIED="1550420454149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/generic_MINST" />
     <SUITE FILE_PATH="coverage/Pytorch_tutorial$train3.coverage" NAME="train3 Coverage Results" MODIFIED="1550498180024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/generic_MINST" />
-    <SUITE FILE_PATH="coverage/Pytorch_tutorial$Fashion_minst_with_drop_out.coverage" NAME="Fashion_minst_with_drop_out Coverage Results" MODIFIED="1549797910057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pytorch_tutorial$load_fashion_weights.coverage" NAME="load_fashion_weights Coverage Results" MODIFIED="1549799418856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pytorch_tutorial$loading_image_data.coverage" NAME="loading_image_data Coverage Results" MODIFIED="1549893499073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pytorch_tutorial$omar2.coverage" NAME="omar2 Coverage Results" MODIFIED="1549984045982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pytorch_tutorial$cifar.coverage" NAME="cifar Coverage Results" MODIFIED="1552233537097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
-    <SUITE FILE_PATH="coverage/Pytorch_tutorial$pytorch_tensors.coverage" NAME="pytorch_tensors Coverage Results" MODIFIED="1549203043706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pytorch_tutorial$try.coverage" NAME="try Coverage Results" MODIFIED="1554572851354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN" />
     <SUITE FILE_PATH="coverage/Pytorch_tutorial$test.coverage" NAME="test Coverage Results" MODIFIED="1549273665539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pytorch_tutorial$Fashoin_minst.coverage" NAME="Fashoin_minst Coverage Results" MODIFIED="1549376852320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pytorch_tutorial$load_and_infere.coverage" NAME="load_and_infere Coverage Results" MODIFIED="1549877433496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/generic_FNN" />
     <SUITE FILE_PATH="coverage/Pytorch_tutorial$test_acc.coverage" NAME="test_acc Coverage Results" MODIFIED="1552235821061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN/data" />
     <SUITE FILE_PATH="coverage/Pytorch_tutorial$fnn_neural_networks_pytorch.coverage" NAME="fnn_neural_networks_pytorch Coverage Results" MODIFIED="1549292442124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pytorch_tutorial$Fashion_mnist_with_validation.coverage" NAME="Fashion_mnist_with_validation Coverage Results" MODIFIED="1549789783334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pytorch_tutorial$Model.coverage" NAME="Model Coverage Results" MODIFIED="1550394563529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/generic_MINST" />
+    <SUITE FILE_PATH="coverage/Pytorch_tutorial$simple_rnn.coverage" NAME="simple_rnn Coverage Results" MODIFIED="1554479357080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN" />
+    <SUITE FILE_PATH="coverage/Pytorch_tutorial$cuda.coverage" NAME="cuda Coverage Results" MODIFIED="1553863619516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pytorch_tutorial$trainig_FNN_2.coverage" NAME="trainig_FNN_2 Coverage Results" MODIFIED="1549362664002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pytorch_tutorial$ST.coverage" NAME="ST Coverage Results" MODIFIED="1552921917195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/style_transfer" />
+    <SUITE FILE_PATH="coverage/Pytorch_tutorial$trainig_FNN.coverage" NAME="trainig_FNN Coverage Results" MODIFIED="1549360173942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pytorch_tutorial$omar1.coverage" NAME="omar1 Coverage Results" MODIFIED="1549988759495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pytorch_tutorial$Fashion_minst_with_drop_out.coverage" NAME="Fashion_minst_with_drop_out Coverage Results" MODIFIED="1549797910057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pytorch_tutorial$omar2.coverage" NAME="omar2 Coverage Results" MODIFIED="1549984045982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pytorch_tutorial$cifar.coverage" NAME="cifar Coverage Results" MODIFIED="1552233537097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
+    <SUITE FILE_PATH="coverage/Pytorch_tutorial$pytorch_tensors.coverage" NAME="pytorch_tensors Coverage Results" MODIFIED="1549203043706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pytorch_tutorial$Fashoin_minst.coverage" NAME="Fashoin_minst Coverage Results" MODIFIED="1549376852320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pytorch_tutorial$train2.coverage" NAME="train2 Coverage Results" MODIFIED="1550418418568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/generic_MINST" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style_transfer/ST.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
+            <state relative-caret-position="630">
               <caret line="47" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pytorch_tensors.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fashion_minst_with_drop_out.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RNN/simple_rnn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1470">
+              <caret line="101" column="34" selection-start-line="101" selection-start-column="34" selection-end-line="102" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RNN/generate_text_char_level.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="302" selection-start-line="289" selection-start-column="49" selection-end-line="302" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RNN/try.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trainig_FNN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="114" selection-start-line="114" selection-end-line="114" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trainig_FNN_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,7 +163,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/deep-learning-v2-pytorch" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -113,13 +199,17 @@
         <option value="$PROJECT_DIR$/CNN/cifar/cifar.py" />
         <option value="$PROJECT_DIR$/CNN/layer_visualisation/conv_visualization-cn.py" />
         <option value="$PROJECT_DIR$/style_transfer/ST.py" />
+        <option value="$PROJECT_DIR$/cuda.py" />
+        <option value="$PROJECT_DIR$/RNN/try.py" />
+        <option value="$PROJECT_DIR$/RNN/simple_rnn.py" />
+        <option value="$PROJECT_DIR$/RNN/generate_text_char_level.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="556" />
-    <option name="y" value="235" />
-    <option name="width" value="1843" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="993" />
+    <option name="y" value="114" />
+    <option name="width" value="917" />
     <option name="height" value="789" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -138,7 +228,7 @@
             <path>
               <item name="Pytorch_tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pytorch_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="style_transfer" type="462c0819:PsiDirectoryNode" />
+              <item name="RNN" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,7 +239,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../super_set" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -176,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ST">
+  <component name="RunManager" selected="Python.generate_text_char_level">
     <configuration name="ST" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pytorch_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,7 +289,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cifar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cuda" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pytorch_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,12 +297,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CNN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CNN/cifar/cifar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cuda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="conv_visualization-cn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="generate_text_char_level" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pytorch_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,12 +319,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CNN/layer_visualisation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RNN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CNN/layer_visualisation/conv_visualization-cn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RNN/generate_text_char_level.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,7 +333,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_acc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="simple_rnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pytorch_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,12 +341,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CNN/data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RNN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CNN/cifar/test_acc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RNN/simple_rnn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,7 +355,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pytorch_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,12 +363,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/generic_MINST" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RNN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generic_MINST/train3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RNN/try.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,11 +379,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.generate_text_char_level" />
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.simple_rnn" />
+        <item itemvalue="Python.cuda" />
         <item itemvalue="Python.ST" />
-        <item itemvalue="Python.conv_visualization-cn" />
-        <item itemvalue="Python.test_acc" />
-        <item itemvalue="Python.cifar" />
-        <item itemvalue="Python.train3" />
       </list>
     </recent_temporary>
   </component>
@@ -331,17 +421,34 @@
       <workItem from="1552381778095" duration="8064000" />
       <workItem from="1552827950947" duration="623000" />
       <workItem from="1552912801690" duration="3848000" />
+      <workItem from="1553863333760" duration="1571000" />
+      <workItem from="1554028474814" duration="849000" />
+      <workItem from="1554113716631" duration="2017000" />
+      <workItem from="1554204567464" duration="6460000" />
+      <workItem from="1554460025730" duration="6698000" />
+      <workItem from="1554552554393" duration="11484000" />
+      <workItem from="1555318489779" duration="1817000" />
+      <workItem from="1555407414206" duration="1199000" />
+      <workItem from="1555492494031" duration="600000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;Add cuda test script&quot;">
+      <created>1553864279864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553864279864</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133640000" />
+    <option name="totallyTimeSpent" value="166335000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="7" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21361372" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23741007" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -360,16 +467,16 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.7742114" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.7570559" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" x="0" y="0" width="413" height="855" id="Documentation" order="5" side_tool="true" weight="0.32982844" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18483675" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21804096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31425485" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -384,13 +491,17 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.79856116" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.7742114" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" x="0" y="0" width="413" height="855" id="Documentation" order="5" side_tool="true" weight="0.32982844" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Add cuda test script&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Add cuda test script&quot;" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -402,33 +513,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pytorch_tensors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trainig_FNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="92" column="17" selection-start-line="92" selection-end-line="93" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trainig_FNN_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/load_fashion_weights.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="539">
@@ -554,26 +638,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/omar2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="539">
           <caret line="60" column="33" lean-forward="true" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/omar1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
@@ -633,23 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fashion_minst_with_drop_out.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="91" column="14" selection-start-line="90" selection-end-line="93" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fnn_neural_networks_pytorch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="142" column="32" selection-start-line="142" selection-start-column="32" selection-end-line="142" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CNN/layer_visualisation/conv_visualization-cn.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -687,13 +738,101 @@
     <entry file="file://$PROJECT_DIR$/style_transfer/images/kahlo.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/cuda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omar1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="38" selection-start-line="23" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fnn_neural_networks_pytorch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="844">
+          <caret line="142" column="32" selection-start-line="142" selection-start-column="32" selection-end-line="142" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/style_transfer/ST.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
+        <state relative-caret-position="630">
           <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch_tensors.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fashion_minst_with_drop_out.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RNN/simple_rnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="101" column="34" selection-start-line="101" selection-start-column="34" selection-end-line="102" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RNN/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainig_FNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainig_FNN_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RNN/generate_text_char_level.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="302" selection-start-line="289" selection-start-column="49" selection-end-line="302" />
         </state>
       </provider>
     </entry>
