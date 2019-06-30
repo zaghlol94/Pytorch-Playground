@@ -55,6 +55,7 @@ for e in range(epochs):
     for images, labels in trainloader:
 
         optimizer.zero_grad()
+        print(labels.shape)
 
         log_ps = model(images)
         loss = criterion(log_ps, labels)
