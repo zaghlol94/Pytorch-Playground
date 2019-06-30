@@ -4,220 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/RNN/generate_text_char_level.py" line="21" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9d6465b-b395-425e-b520-eb479766c32d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Pytorch_tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pytorch_tutorial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/cifar/cifar.py" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/cifar/cifar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/cifar/cifar_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/cifar/cifar_network.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/cifar/model_cifar.pt" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/cifar/model_cifar.pt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/cifar/test_acc.py" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/cifar/test_acc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/layer_visualisation/conv_visualization-cn.py" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/layer_visualisation/conv_visualization-cn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/layer_visualisation/udacity_sdc.png" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/layer_visualisation/udacity_sdc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fashion_minst_with_drop_out.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fashion_minst_with_drop_out.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fashion_mnist_with_validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fashion_mnist_with_validation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fashoin_minst.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fashoin_minst.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RNN/generate_text_char_level.py" beforeDir="false" afterPath="$PROJECT_DIR$/RNN/generate_text_char_level.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RNN/simple_rnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/RNN/simple_rnn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuda.py" beforeDir="false" afterPath="$PROJECT_DIR$/cuda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/attention/Attention_Basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/attention/Attention_Basics.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/attention/Attention_Basics_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/attention/Attention_Basics_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/attention/images/Context_vector.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/attention/images/Context_vector.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/attention/images/scoring_functions.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/attention/images/scoring_functions.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/attention/images/softmax.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/attention/images/softmax.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/convolutional-autoencoder/Convolutional_Autoencoder_Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/convolutional-autoencoder/Convolutional_Autoencoder_Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/convolutional-autoencoder/Convolutional_Autoencoder_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/convolutional-autoencoder/Convolutional_Autoencoder_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/convolutional-autoencoder/Upsampling_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/convolutional-autoencoder/Upsampling_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/convolutional-autoencoder/notebook_ims/autoencoder_denoise.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/convolutional-autoencoder/notebook_ims/autoencoder_denoise.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/convolutional-autoencoder/notebook_ims/conv_enc_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/convolutional-autoencoder/notebook_ims/conv_enc_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/convolutional-autoencoder/notebook_ims/conv_enc_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/convolutional-autoencoder/notebook_ims/conv_enc_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/denoising-autoencoder/Denoising_Autoencoder_Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/denoising-autoencoder/Denoising_Autoencoder_Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/denoising-autoencoder/Denoising_Autoencoder_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/denoising-autoencoder/Denoising_Autoencoder_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/denoising-autoencoder/notebook_ims/autoencoder_denoise.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/denoising-autoencoder/notebook_ims/autoencoder_denoise.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/linear-autoencoder/Simple_Autoencoder_Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/linear-autoencoder/Simple_Autoencoder_Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/linear-autoencoder/Simple_Autoencoder_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/linear-autoencoder/Simple_Autoencoder_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/linear-autoencoder/notebook_ims/autoencoder_denoise.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/autoencoder/linear-autoencoder/notebook_ims/autoencoder_denoise.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/batch-norm/Batch_Normalization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/batch-norm/Batch_Normalization.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/cifar10_cnn_augmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/cifar10_cnn_augmentation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/cifar10_cnn_exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/cifar10_cnn_exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/cifar10_cnn_solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/cifar10_cnn_solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/model_augmented.pt" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/model_augmented.pt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/model_cifar.pt" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/model_cifar.pt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/notebook_ims/2_layer_conv.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/notebook_ims/2_layer_conv.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/notebook_ims/cifar_data.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/cifar-cnn/notebook_ims/cifar_data.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/conv_visualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/conv_visualization.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/custom_filters.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/custom_filters.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/data/bridge_trees_example.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/data/bridge_trees_example.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/data/curved_lane.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/data/curved_lane.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/data/sobel_ops.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/data/sobel_ops.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/data/white_lines.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/data/white_lines.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/maxpooling_visualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/maxpooling_visualization.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/notebook_ims/CNN_all_layers.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/notebook_ims/CNN_all_layers.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/notebook_ims/conv_layer.gif" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/notebook_ims/conv_layer.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/notebook_ims/maxpooling_ex.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/notebook_ims/maxpooling_ex.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/notebook_ims/relu_ex.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/notebook_ims/relu_ex.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/notebook_ims/sobel_ops.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/conv-visualization/notebook_ims/sobel_ops.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/mnist-mlp/mnist_mlp_exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/mnist-mlp/mnist_mlp_exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/mnist-mlp/mnist_mlp_solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/convolutional-neural-networks/mnist-mlp/mnist_mlp_solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/CycleGAN_Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/CycleGAN_Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/CycleGAN_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/CycleGAN_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/helpers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/CycleGAN_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/CycleGAN_loss.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/XY_season_images.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/XY_season_images.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/cycle_consistency_ex.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/cycle_consistency_ex.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/cyclegan_generator_ex.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/cyclegan_generator_ex.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/discriminator_layers.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/discriminator_layers.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/horse2zebra.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/horse2zebra.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/reconstruction_error.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/reconstruction_error.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/resnet_50.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/resnet_50.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/resnet_block.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/resnet_block.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/sample-004000-summer2winter.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/sample-004000-summer2winter.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/training_cycle_ex.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/notebook_images/training_cycle_ex.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/samples_cyclegan/samples_dir.txt" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/cycle-gan/samples_cyclegan/samples_dir.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/dcgan-svhn/DCGAN_Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/dcgan-svhn/DCGAN_Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/dcgan-svhn/DCGAN_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/dcgan-svhn/DCGAN_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/dcgan-svhn/assets/conv_discriminator.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/dcgan-svhn/assets/conv_discriminator.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/dcgan-svhn/assets/conv_generator.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/dcgan-svhn/assets/conv_generator.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/dcgan-svhn/assets/svhn_dcgan.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/dcgan-svhn/assets/svhn_dcgan.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/gan-mnist/MNIST_GAN_Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/gan-mnist/MNIST_GAN_Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/gan-mnist/MNIST_GAN_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/gan-mnist/MNIST_GAN_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/gan-mnist/assets/gan_pipeline.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/gan-mnist/assets/gan_pipeline.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/gan-mnist/assets/leaky_relu.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/gan-mnist/assets/leaky_relu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/gan-mnist/assets/tanh_fn.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/gan-mnist/assets/tanh_fn.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 1 - Tensors in PyTorch (Exercises).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 1 - Tensors in PyTorch (Exercises).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 1 - Tensors in PyTorch (Solution).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 1 - Tensors in PyTorch (Solution).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 2 - Neural Networks in PyTorch (Exercises).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 2 - Neural Networks in PyTorch (Exercises).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 2 - Neural Networks in PyTorch (Solution).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 2 - Neural Networks in PyTorch (Solution).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 3 - Training Neural Networks (Exercises).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 3 - Training Neural Networks (Exercises).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 3 - Training Neural Networks (Solution).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 3 - Training Neural Networks (Solution).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 4 - Fashion-MNIST (Exercises).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 4 - Fashion-MNIST (Exercises).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 4 - Fashion-MNIST (Solution).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 4 - Fashion-MNIST (Solution).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 5 - Inference and Validation (Exercises).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 5 - Inference and Validation (Exercises).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 5 - Inference and Validation (Solution).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 5 - Inference and Validation (Solution).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 6 - Saving and Loading Models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 6 - Saving and Loading Models.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 7 - Loading Image Data (Exercises).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 7 - Loading Image Data (Exercises).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 7 - Loading Image Data (Solution).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 7 - Loading Image Data (Solution).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 8 - Transfer Learning (Exercises).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 8 - Transfer Learning (Exercises).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 8 - Transfer Learning (Solution).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 8 - Transfer Learning (Solution).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/ImageNet_example.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/ImageNet_example.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/Pooling_Simple_max.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/Pooling_Simple_max.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/activation.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/activation.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/autoencoder_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/autoencoder_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/backprop_diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/backprop_diagram.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/cat.70.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/cat.70.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/cat_cropped.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/cat_cropped.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/conv_net.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/conv_net.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/dog.128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/dog.128.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/dog_cat.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/dog_cat.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/examples_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/examples_new.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/fashion-mnist-sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/fashion-mnist-sprite.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/full_padding_no_strides_transposed.gif" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/full_padding_no_strides_transposed.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/function_approx.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/function_approx.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/gradient_descent.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/gradient_descent.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/image_distribution.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/image_distribution.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/infographic.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/infographic.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/lenet.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/lenet.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/mlp_mnist.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/mlp_mnist.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/mnist.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/mnist.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/multilayer_diagram_weights.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/multilayer_diagram_weights.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/network_diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/network_diagram.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/overfitting.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/overfitting.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/padding_strides.gif" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/padding_strides.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/simple_neuron.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/simple_neuron.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/tensor_examples.svg" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/tensor_examples.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/test_examples.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/test_examples.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/train_examples.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/train_examples.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/w1_backprop_graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/assets/w1_backprop_graph.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/fc_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/fc_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/helper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/project-bikesharing/.udacity-pa/projects.py" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/project-bikesharing/.udacity-pa/projects.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/project-dog-classification/dog_app.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/project-dog-classification/dog_app.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/project-face-generation/assets/processed_face_data.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/project-face-generation/assets/processed_face_data.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/project-face-generation/dlnd_face_generation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/project-face-generation/dlnd_face_generation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/project-face-generation/problem_unittests.py" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/project-face-generation/problem_unittests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/project-tv-script-generation/data/Seinfeld_Scripts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/project-tv-script-generation/data/Seinfeld_Scripts.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/project-tv-script-generation/dlnd_tv_script_generation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/project-tv-script-generation/dlnd_tv_script_generation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/recurrent-neural-networks/char-rnn/Character_Level_RNN_Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/recurrent-neural-networks/char-rnn/Character_Level_RNN_Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/recurrent-neural-networks/char-rnn/Character_Level_RNN_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/recurrent-neural-networks/char-rnn/Character_Level_RNN_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/recurrent-neural-networks/char-rnn/assets/sequence_batching_ex.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/recurrent-neural-networks/char-rnn/assets/sequence_batching_ex.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/recurrent-neural-networks/time-series/Simple_RNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/recurrent-neural-networks/time-series/Simple_RNN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/recurrent-neural-networks/time-series/assets/time_prediction.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/recurrent-neural-networks/time-series/assets/time_prediction.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/sentiment-analysis-network/Sentiment_Classification_Solutions_2_Better_Weight_Initialization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/sentiment-analysis-network/Sentiment_Classification_Solutions_2_Better_Weight_Initialization.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/sentiment-rnn/Sentiment_RNN_Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/sentiment-rnn/Sentiment_RNN_Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/sentiment-rnn/Sentiment_RNN_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/sentiment-rnn/Sentiment_RNN_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/sentiment-rnn/assets/outliers_padding_ex.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/sentiment-rnn/assets/outliers_padding_ex.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/sentiment-rnn/assets/reviews_ex.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/sentiment-rnn/assets/reviews_ex.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/Style_Transfer_Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/Style_Transfer_Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/Style_Transfer_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/Style_Transfer_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/images/delaunay.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/images/delaunay.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/images/hockney.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/images/hockney.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/images/kahlo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/images/kahlo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/images/magritte.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/images/magritte.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/images/octopus.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/images/octopus.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/images/sotomayor.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/images/sotomayor.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/images/space_needle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/images/space_needle.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/notebook_ims/style_tx_cat.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/notebook_ims/style_tx_cat.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/notebook_ims/vgg19_convlayers.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/style-transfer/notebook_ims/vgg19_convlayers.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/transfer-learning/Transfer_Learning_Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/transfer-learning/Transfer_Learning_Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/transfer-learning/Transfer_Learning_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/transfer-learning/Transfer_Learning_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/transfer-learning/notebook_ims/vgg_16_architecture.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/transfer-learning/notebook_ims/vgg_16_architecture.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/weight-initialization/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/weight-initialization/helpers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/weight-initialization/notebook_ims/loss_comparison_ex.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/weight-initialization/notebook_ims/loss_comparison_ex.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/weight-initialization/notebook_ims/neural_net.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/weight-initialization/notebook_ims/neural_net.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/weight-initialization/notebook_ims/neuron_weights.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/weight-initialization/notebook_ims/neuron_weights.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/weight-initialization/weight_initialization_exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/weight-initialization/weight_initialization_exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/weight-initialization/weight_initialization_solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/weight-initialization/weight_initialization_solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/Negative_Sampling_Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/Negative_Sampling_Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/Negative_Sampling_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/Negative_Sampling_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/Skip_Grams_Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/Skip_Grams_Exercise.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/Skip_Grams_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/Skip_Grams_Solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/assets/context_drink.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/assets/context_drink.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/assets/neg_sampling_loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/assets/neg_sampling_loss.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/assets/skip_gram_arch.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/assets/skip_gram_arch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/assets/two_vectors.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/assets/two_vectors.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/assets/vector_distance.png" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/assets/vector_distance.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/data/download_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/word2vec-embeddings/data/download_data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fnn_neural_networks_pytorch.py" beforeDir="false" afterPath="$PROJECT_DIR$/fnn_neural_networks_pytorch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic_FNN/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic_FNN/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic_FNN/load_and_infere.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic_FNN/load_and_infere.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic_FNN/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic_FNN/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic_FNN/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic_FNN/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic_MINST/Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic_MINST/Model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic_MINST/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic_MINST/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic_MINST/best_model.pt" beforeDir="false" afterPath="$PROJECT_DIR$/generic_MINST/best_model.pt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic_MINST/model.pt" beforeDir="false" afterPath="$PROJECT_DIR$/generic_MINST/model.pt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic_MINST/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic_MINST/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic_MINST/train2.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic_MINST/train2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic_MINST/train3.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic_MINST/train3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/helper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/load_fashion_weights.py" beforeDir="false" afterPath="$PROJECT_DIR$/load_fashion_weights.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loading_image_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/loading_image_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omar1.py" beforeDir="false" afterPath="$PROJECT_DIR$/omar1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omar2.py" beforeDir="false" afterPath="$PROJECT_DIR$/omar2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorch_tensors.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch_tensors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style_transfer/ST.py" beforeDir="false" afterPath="$PROJECT_DIR$/style_transfer/ST.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style_transfer/images/delaunay.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/style_transfer/images/delaunay.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style_transfer/images/hockney.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/style_transfer/images/hockney.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style_transfer/images/kahlo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/style_transfer/images/kahlo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style_transfer/images/magritte.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/style_transfer/images/magritte.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style_transfer/images/octopus.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/style_transfer/images/octopus.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style_transfer/images/sotomayor.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/style_transfer/images/sotomayor.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style_transfer/images/space_needle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/style_transfer/images/space_needle.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainig_FNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/trainig_FNN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainig_FNN_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/trainig_FNN_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transfer_learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/transfer_learning.py" afterDir="false" />
-    </list>
+    <list default="true" id="d9d6465b-b395-425e-b520-eb479766c32d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,7 +41,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RNN/try.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -262,6 +49,15 @@
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cuda.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -610,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556696600623</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;Add cuda test script&quot;">
+      <created>1561897394207</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561897394207</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -619,7 +422,7 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2590164" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2590164" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -630,10 +433,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32937366" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -669,6 +472,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Add cuda test script&quot;" />
@@ -949,13 +778,6 @@
     <entry file="file://$PROJECT_DIR$/style_transfer/images/kahlo.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cuda.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/omar1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1057,6 +879,13 @@
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cuda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
